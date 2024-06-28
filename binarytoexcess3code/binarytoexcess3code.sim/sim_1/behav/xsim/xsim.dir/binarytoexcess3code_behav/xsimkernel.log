@@ -1,0 +1,7 @@
+Running: xsim.dir/binarytoexcess3code_behav/xsimk.exe -simmode gui -wdb binarytoexcess3code_behav.wdb -simrunnum 0 -socket 61381
+Design successfully loaded
+Design Loading Memory Usage: 8652 KB (Peak: 8652 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 9100 KB (Peak: 9100 KB)
+Simulation CPU Usage: 15 ms

@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Sat Apr 20 21:38:06 2024
+# Process ID: 12508
+# Current directory: D:/final year/8th sem/vhdl lab/piso/piso.runs/synth_1
+# Command line: vivado.exe -log piso.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source piso.tcl
+# Log file: D:/final year/8th sem/vhdl lab/piso/piso.runs/synth_1/piso.vds
+# Journal file: D:/final year/8th sem/vhdl lab/piso/piso.runs/synth_1\vivado.jou
+# Running On: LAPTOP-CTGPC8H5, OS: Windows, CPU Frequency: 2595 MHz, CPU Physical cores: 4, Host memory: 6382 MB
+#-----------------------------------------------------------
+source piso.tcl -notrace

@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "deco3x8_seq_behav" "xil_defaultlib.deco3x8_seq" -log "elaborate.log" 

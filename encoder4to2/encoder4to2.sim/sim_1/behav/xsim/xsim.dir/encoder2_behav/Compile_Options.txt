@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "encoder2_behav" "xil_defaultlib.encoder2" -log "elaborate.log" 

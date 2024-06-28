@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "j_k_flip_flop_behav" "xil_defaultlib.j_k_flip_flop" -log "elaborate.log" 

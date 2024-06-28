@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "demux1to8_behav" "xil_defaultlib.demux1to8" -log "elaborate.log" 

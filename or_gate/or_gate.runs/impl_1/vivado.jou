@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Sat Apr 20 11:02:30 2024
+# Process ID: 9964
+# Current directory: D:/final year/8th sem/vhdl lab/or_gate/or_gate.runs/impl_1
+# Command line: vivado.exe -log or_gate.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source or_gate.tcl -notrace
+# Log file: D:/final year/8th sem/vhdl lab/or_gate/or_gate.runs/impl_1/or_gate.vdi
+# Journal file: D:/final year/8th sem/vhdl lab/or_gate/or_gate.runs/impl_1\vivado.jou
+# Running On: LAPTOP-CTGPC8H5, OS: Windows, CPU Frequency: 2595 MHz, CPU Physical cores: 4, Host memory: 6382 MB
+#-----------------------------------------------------------
+source or_gate.tcl -notrace

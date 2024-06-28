@@ -1,0 +1,6 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../encoder4to2.srcs/sources_1/new/encoder4to2.vhd" \
+
+# Do not sort compile order
+nosort

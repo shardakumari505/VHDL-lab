@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "xnor_gate_behav" "xil_defaultlib.xnor_gate" -log "elaborate.log" 
